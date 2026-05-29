@@ -26,15 +26,6 @@ This repository serves as the complete archive of my original design work:
 * **Animation Sheets:** Full frame-by-frame animations for character movement, tower attacks, deployment sequences, and destruction effects.
 * **Environment Design:** Complete tilesets, UI elements, and the full Calamba City Plaza map layout.
 
-### Asset Spotlight
-Here is a preview of the custom pixel art included in this repository:
-
-<p align="center">
-  <img src="BOY-FRONT1.png" alt="Zombanga Malware Zombie Sprite - BOY-FRONT1" width="128"/>
-  <br>
-  <i>Figure 1: "BOY-FRONT1.png" - Front-facing malware zombie sprite.</i>
-</p>
-
 ---
 
 ## License & Usage

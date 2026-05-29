@@ -8,7 +8,7 @@ This repository contains all the original creative assets built for the project,
 
 ---
 
-## 🛠️ Key Features & OS Integration
+## Key Features & OS Integration
 
 The core gameplay mechanics translate actual CPU scheduling algorithms into defensive tower strategies:
 
@@ -18,7 +18,7 @@ The core gameplay mechanics translate actual CPU scheduling algorithms into defe
 
 ---
 
-## 🎨 Art & Visual Aesthetic
+## Art & Visual Aesthetic
 
 Zombanga features a distinct **pixel art aesthetic** that leans into a nostalgic, retro system diagnostic visual style. Every asset in this repository is custom-made to anchor technical computing themes into a tangible, stylized game world.
 
@@ -49,7 +49,7 @@ Here is a preview of the custom pixel art and animation assets created entirely 
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 This repository serves as the complete archive of my original design work:
 
@@ -62,6 +62,6 @@ This repository serves as the complete archive of my original design work:
 
 ---
 
-## 📄 License & Usage
+## License & Usage
 
-This is an open-source project. All art assets included here are original works created specifically for Zombanga. Please check the `LICENSE` file in this repository for specific terms regarding reuse, modification, and attribution.
+This is an open-source project. All art assets included here are original works created specifically for Zombanga.
